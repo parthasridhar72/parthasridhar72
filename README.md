@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parthasridhar72
-- 👀 I’m interested in Frontend Web Development, Python, AI/ML
-- 🌱 I’m currently learning ReactJS, Java, GenAI
+- 👀 I’m interested in Full Stack Web Development, Python, AI/ML, GenAI/Agentic AI, and RAG.
+- 🌱 I’m currently learning ReactJS, Java, GenAI, RAG and Agentic AI.
 - 💞️ I’m looking to collaborate on any private or public projects where I can use my skills and create a positive impact on both the community as well as share the knowledge gained with my counterparts
 - 📫 How to reach me : sridharpartha1999@gmail.com
 - 😄 Pronouns: He/Him
